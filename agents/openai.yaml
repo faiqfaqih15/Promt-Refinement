@@ -1,0 +1,4 @@
+interface:
+  display_name: Prompt Refinement Loop
+  short_description: Evaluate and improve prompts through a controlled quality loop
+  default_prompt: Evaluate and refine this prompt using the prompt-refinement-loop workflow.
